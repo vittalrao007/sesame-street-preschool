@@ -1,0 +1,6 @@
+{
+  "name": "Little Sprout Preschool & Daycare",
+  "description": "Professional, client-ready preschool and daycare website with editable business configuration, call & WhatsApp integrations, and warm pastel design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
